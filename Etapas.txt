@@ -1,0 +1,38 @@
+Verificação de Dados Ausentes (Missing Data):
+
+Use df.isnull().sum() para verificar se há dados ausentes em suas colunas. Isso ajudará a identificar se há valores faltando em seu DataFrame.
+
+Sumarização Estatística Inicial:
+
+Use df.describe() para obter uma visão geral estatística inicial das colunas numéricas. Isso incluirá informações como média, desvio padrão, mínimo, máximo, quartis, etc.
+Análise de Duplicatas:
+
+Use df.duplicated().sum() para verificar se há linhas duplicadas em seu DataFrame. Duplicatas podem distorcer suas análises.
+
+Exploração de Categorias (se aplicável):
+
+Se você tiver colunas categóricas, examine os valores únicos em cada coluna para entender as categorias presentes.
+
+Gráficos Iniciais (se aplicável):
+
+Plote gráficos simples para visualizar distribuições de dados, como histogramas para dados numéricos e gráficos de barras para dados categóricos.
+Identificação de Outliers:
+
+Use gráficos de caixa (box plots) ou métodos estatísticos para identificar valores atípicos em suas colunas numéricas.
+
+Correlações (se aplicável):
+
+Se você estiver interessado em relacionamentos entre variáveis, calcule a matriz de correlação para identificar associações entre as colunas numéricas.
+Verificação de Valores Extremos ou 
+
+Incoerentes:
+
+Examine os valores em suas colunas para garantir que não existam valores extremos que não façam sentido em seu contexto.
+
+Validação de Unidades e Escalas:
+
+Certifique-se de que as unidades e escalas em suas colunas estejam consistentes e façam sentido para suas análises.
+
+Definição de Objetivos Analíticos:
+
+Determine quais análises estatísticas básicas você deseja realizar e quais são seus principais objetivos com os dados. Isso ajudará a direcionar suas análises.

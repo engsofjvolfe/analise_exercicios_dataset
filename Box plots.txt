@@ -1,0 +1,13 @@
+Box Plot de Repetições (Reps): Este gráfico nos permite entender a distribuição das repetições nos exercícios. Você pode mostrar o box plot e destacar as principais informações que ele oferece, como a mediana (linha no meio do retângulo), os quartis (bordas do retângulo), os possíveis valores atípicos (pontos fora do retângulo), e a variação dos dados entre os quartis.
+
+Interpretação da Mediana: Explique o que a mediana representa em termos das repetições. É o valor central que divide o conjunto de dados em duas metades. Em outras palavras, 50% das repetições estão abaixo da mediana e 50% estão acima dela.
+
+Interpretação dos Quartis: Descreva os quartis (Q1 e Q3) e como eles indicam a dispersão dos dados. Q1 representa o limite inferior da metade superior dos dados, enquanto Q3 representa o limite superior da metade superior dos dados.
+
+Valores Atípicos: Mencione a presença de valores atípicos (outliers) no box plot e o que isso pode significar. Por exemplo, repetições muito baixas ou muito altas podem ser identificadas como valores atípicos e merecem atenção na análise.
+
+Variação das Repetições: Comente sobre como a extensão do box (distância entre Q1 e Q3) reflete a variabilidade nas repetições. Uma caixa mais longa sugere uma maior dispersão dos dados.
+
+Finalidade na Análise: Explique por que a análise das repetições é relevante para o contexto dos exercícios. Pode ajudar a entender a intensidade dos treinos, a consistência nas séries e os possíveis desvios.
+
+Lembre-se de que estamos focando em uma abordagem educacional, então você não precisa realizar análises profundas, mas sim demonstrar como criar e interpretar um box plot e como as informações obtidas podem ser úteis na análise de dados de fitness.

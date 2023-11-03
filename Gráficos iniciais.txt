@@ -1,0 +1,36 @@
+Gráficos Iniciais (para fins educacionais):
+
+Nesta etapa, vamos criar gráficos simples e diretos para ilustrar conceitos fundamentais de visualização de dados. O foco principal é demonstrar a aplicação de gráficos básicos que podem ser úteis para iniciantes em análise de dados. Cada gráfico deve ser acompanhado de uma explicação clara.
+
+Histograma de Peso (Weight):
+
+Crie um histograma para a coluna "weight" para mostrar a distribuição dos pesos usados nos exercícios.
+Explique como um histograma ajuda a visualizar a distribuição e identificar tendências nos pesos usados.
+Gráfico de Barras de Treinos por Categoria (workout_name):
+
+Crie um gráfico de barras que mostre a contagem de treinos para cada categoria em "workout_name."
+Explicite como esse gráfico ajuda a visualizar a distribuição dos treinos em diferentes categorias.
+Box Plot de Repetições (Reps):
+
+Crie um box plot para a coluna "reps" para identificar valores atípicos e entender a variação nas repetições.
+Esclareça como um box plot ajuda na detecção de valores extremos.
+Gráfico de Barras de Exercícios Mais Frequentes (exercise_name):
+
+Faça um gráfico de barras que mostre os exercícios mais frequentes na coluna "exercise_name."
+Explique como esse gráfico pode fornecer informações sobre os exercícios mais praticados.
+Box Plot de Tempo Gasto (Seconds):
+
+Crie um box plot para a coluna "seconds" para analisar a distribuição do tempo gasto em exercícios.
+Destaque a utilidade do box plot para visualizar a variabilidade nos tempos.
+Gráfico de Séries Temporais (se aplicável):
+
+Se a coluna "date" contiver datas, crie um gráfico de séries temporais para mostrar como as atividades variam ao longo do tempo.
+Demonstre como um gráfico de séries temporais pode ser usado para identificar tendências temporais.
+Gráfico de Correlação (se aplicável):
+
+Caso deseje explorar a relação entre variáveis, calcule a matriz de correlação e crie um gráfico de calor para ilustrar as associações entre as colunas numéricas.
+Explique como a matriz de correlação ajuda a identificar relações.
+Outros Gráficos Relevantes (se aplicável):
+
+Se houver outras colunas que você deseja explorar visualmente, crie gráficos que sejam pertinentes ao contexto dos dados.
+Lembre-se de que o foco principal é educativo, e os gráficos devem ser acompanhados de explicações claras sobre como interpretá-los e o que podem revelar. Não é necessário realizar análises aprofundadas, mas sim demonstrar como criar visualizações básicas para entender seus dados.

@@ -1,0 +1,11 @@
+Detalhes da Identificação: Explicar em detalhes como os dados duplicados foram identificados usando o método duplicated() e o motivo pelo qual isso é importante. Mostre ao leitor o código ou comandos utilizados para realizar essa tarefa.
+
+Impacto Potencial: Destaque brevemente o impacto potencial de dados duplicados em análises futuras. Por exemplo, você pode mencionar que a presença de duplicatas pode levar a resultados distorcidos e, portanto, é crucial identificá-las.
+
+Resolvendo Duplicatas: Descreva como as duplicatas podem ser tratadas. Isso pode incluir a remoção de duplicatas ou a combinação de dados duplicados, dependendo do contexto.
+
+Exemplo Prático: Fornecer um exemplo prático usando dados reais da tabela que você está analisando. Mostre ao leitor como identificar, contar e lidar com duplicatas. Use comentários ou anotações explicativas para guiar o leitor através do processo.
+
+Ferramentas Utilizadas: Liste e explique as ferramentas específicas que estão sendo usadas para identificar duplicatas, destacando a importância de cada uma delas para análise de dados.
+
+Aplicação Futura: Explique como a habilidade de identificar e tratar dados duplicados pode ser aplicada em análises mais avançadas. Isso ajuda a contextualizar o aprendizado do leitor.
